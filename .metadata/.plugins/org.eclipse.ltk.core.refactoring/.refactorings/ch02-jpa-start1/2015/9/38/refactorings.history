@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;ch02-jpa-start1&apos;&#x0D;&#x0A;- Original project: &apos;ch02-jpa-start1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     JpaMain.java&#x0D;&#x0A;     Member.java" description="Delete elements" element1="src/main/java/jpabook/start/JpaMain.java" element2="src/main/java/jpabook/start/Member.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1442313658213" subPackages="false" version="1.0"/>
+</session>

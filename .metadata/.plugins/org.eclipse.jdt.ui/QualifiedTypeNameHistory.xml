@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+<fullyQualifiedTypeName name="jpabook.model.entity.Member"/>
+<fullyQualifiedTypeName name="jpabook.model.entity.Order"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.Order"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.Cookie"/>
+<fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+</qualifiedTypeNameHistroy>
