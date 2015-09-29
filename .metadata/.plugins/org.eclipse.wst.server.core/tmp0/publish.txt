@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Tue Sep 22 23:37:31 PDT 2015
-org.eclipse.jst.jee.server\:FileUpload=C\:\\apache-tomcat-8.0.26-windows-x64\\apache-tomcat-8.0.26\\wtpwebapps\\FileUpload
+#Tue Sep 29 18:46:27 KST 2015
 org.eclipse.jst.jee.server\:08Chapter=C\:\\apache-tomcat-8.0.26-windows-x64\\apache-tomcat-8.0.26\\wtpwebapps\\08Chapter
+org.eclipse.jst.jee.server\:08Chapter_session=C\:\\apache-tomcat-8.0.26-windows-x64\\apache-tomcat-8.0.26\\wtpwebapps\\08Chapter_session
