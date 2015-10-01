@@ -9,4 +9,5 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.Cookie"/>
 <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>
