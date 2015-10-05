@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>param test</title>
+</head>
+<0body>
+	<h1>Param test</h1>
+	<form action="useBeanParam.jsp">
+		<fieldset>
+			<legend>Login form</legend>
+			<ul>
+				<li>
+					<label for="userid">아이디</label>
+					<input type="text" name="userid">
+				</li>
+				<li>
+					<label for="passwd">비밀번호</label>
+					<input type="password" name="passwd">
+				</li>
+				<li><input type="submit" value="submit"></li>
+			</ul>
+		</fieldset>	
+	</form>
+</body>
+</html>

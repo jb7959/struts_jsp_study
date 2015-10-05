@@ -1,0 +1,17 @@
+package com.emp;
+
+import javax.naming.*;
+import javax.sql.*;
+
+public class EmpDAO {
+	DataSource dataFactory;
+	
+	
+	
+	try{
+		Context ctx = new InitialContext();
+		
+	}catch(){}
+		
+}
+}

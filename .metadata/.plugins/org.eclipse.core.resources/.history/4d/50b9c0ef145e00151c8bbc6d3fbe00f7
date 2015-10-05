@@ -1,0 +1,52 @@
+package jpabook.start;
+
+import javax.persistence.*;  //**
+
+/**
+ * User: HolyEyE
+ * Date: 13. 5. 24. Time: 오후 7:43
+ */
+@Entity
+@Table(name="MEMBER")
+public class Member {
+	@Id
+	@Column(name="MEMBER_ID")
+	private String id;
+	
+	@Column(name="USERNAME")
+	private String username;
+	
+	//@ManyToOne 
+	@OneToOne
+	@JoinColumn(name="TEAM_ID" )
+	private Team team;
+	
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getUsername() {
+		return username;
+	}
+	public void setUsername(String username) {
+		this.username = username;
+	}
+	public Team getTeam() {		
+		return team;
+	}
+	public void setTeam(Team team) {
+		if (this.team != null){
+			this.team.getMembers().remove(this);
+		}
+		
+		this.team = team;
+		team.getMembers().add(this);
+		System.out.println("현재"+team.getName()+"멤버들의 숫자: "+ team.getMembers().size());
+	}
+	
+		
+	
+    
+}
