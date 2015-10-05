@@ -1,6 +1,5 @@
 package com.test;
 
-import java.io.IOException;
 import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
@@ -12,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class InitParamServlet
  */
-@WebServlet("/InitParamServlet")
+@WebServlet("/InitParam")
 public class InitParamServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
@@ -28,7 +27,7 @@ public class InitParamServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		doPost(request,response);
+		//doPost(request,response);
 	}
 
 	/**
