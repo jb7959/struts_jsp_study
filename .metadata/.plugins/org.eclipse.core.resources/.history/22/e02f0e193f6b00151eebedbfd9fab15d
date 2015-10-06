@@ -17,17 +17,6 @@
 		
 	User's ID: <jsp:getProperty property="userid" name="myBean"/> <!--<%= myBean.getUserid() %>  -->
 	User's Password :  <jsp:getProperty property="passwd" name="myBean"/> <!-- <%= myBean.getPasswd() %>  -->
-	
-	<br>EL사용을 통한 표기 JavaBean에서 가져옴<br> 
-	
-	User's ID : ${myBean.userid}<br>
-	User's PW : ${myBean.passwd}<br>
-	
-	<br>EL사용을 통한 표기 HttpServletRequest Param에서 가져옴<br> 
-	
-	User's ID : ${param.userid}<br>
-	User's PW : ${param.passwd}<br>
-	
 
 </body>
 </html>
