@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+=======
 <fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
 <fullyQualifiedTypeName name="jpabook.model.entity.Member"/>
 <fullyQualifiedTypeName name="jpabook.model.entity.Order"/>
@@ -10,4 +13,5 @@
 <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.Cookie"/>
 <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 </qualifiedTypeNameHistroy>

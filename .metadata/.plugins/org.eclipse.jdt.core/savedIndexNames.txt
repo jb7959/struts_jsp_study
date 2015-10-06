@@ -1,6 +1,14 @@
 INDEX VERSION 1.127+C:\jspWork\.metadata\.plugins\org.eclipse.jdt.core
+<<<<<<< HEAD
 1938769089.index
 1000147613.index
+=======
+<<<<<<< HEAD
+3292839977.index
+335001717.index
+2250130128.index
+=======
+>>>>>>> 8b8b6aab3174696a24092be03cce66827ab07b53
 2706769910.index
 3717855755.index
 2408354210.index
@@ -45,5 +53,9 @@ INDEX VERSION 1.127+C:\jspWork\.metadata\.plugins\org.eclipse.jdt.core
 1737343993.index
 1387363888.index
 286095345.index
+<<<<<<< HEAD
 1115393665.index
 115473318.index
+=======
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
+>>>>>>> 8b8b6aab3174696a24092be03cce66827ab07b53

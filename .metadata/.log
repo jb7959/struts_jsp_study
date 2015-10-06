@@ -1,11 +1,28 @@
+<<<<<<< HEAD
+!SESSION 2015-08-27 09:14:16.805 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+=======
 !SESSION 2015-09-03 12:57:22.843 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.8.0_60
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-27 09:14:43.135
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kcms'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-08-27 09:18:00.632 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2015-09-03 12:59:12.218
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
@@ -2731,11 +2748,23 @@ java.util.ConcurrentModificationException
 !SESSION 2015-09-21 19:40:32.821 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.8.0_60
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-27 09:18:11.409
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kcms'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-08-27 09:20:05.512 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2015-09-21 19:41:10.867
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
@@ -2783,11 +2812,29 @@ org.apache.maven.plugin.MojoExecutionException: You need to run build with JDK o
 !SESSION 2015-09-22 21:45:18.260 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.8.0_60
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-27 09:20:23.040
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kcms'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-08-27 09:34:40.277
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-08-27 09:35:01.619
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+!SESSION 2015-08-27 09:35:33.037 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+=======
 !ENTRY org.eclipse.core.resources 2 10035 2015-09-22 21:45:28.807
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
 
@@ -3397,18 +3444,38 @@ java.io.FileNotFoundException: C:\jspWork\.metadata\.plugins\org.eclipse.core.re
 !SESSION 2015-09-29 16:12:30.427 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.8.0_60
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-27 09:35:40.854
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kcms'. If this is
+=======
 !ENTRY org.eclipse.egit.ui 2 0 2015-09-29 16:13:11.305
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.wst.server.core 4 0 2015-08-27 09:35:44.976
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2015-08-27 09:36:32.900
+!MESSAGE Several ports (8005, 8090, 8009) required by Tomcat v8.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-08-27 09:41:46.681
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-08-27 09:41:56.448
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+=======
 !ENTRY org.eclipse.core.resources 4 568 2015-09-29 16:18:12.176
 !MESSAGE Could not write metadata for '/RemoteSystemsTempFiles'.
 !STACK 0
@@ -3909,6 +3976,7 @@ java.io.FileNotFoundException: C:\jspWork\.metadata\.plugins\org.eclipse.core.re
 	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2270)
 	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$4.run(IDEWorkbenchAdvisor.java:453)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+<<<<<<< HEAD
 !SESSION 2015-10-05 17:50:22.065 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.8.0_60
@@ -4098,3 +4166,6 @@ java.io.FileNotFoundException: C:\jspWork\.metadata\.plugins\org.eclipse.core.re
 	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2270)
 	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$4.run(IDEWorkbenchAdvisor.java:453)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+=======
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
+>>>>>>> 8b8b6aab3174696a24092be03cce66827ab07b53

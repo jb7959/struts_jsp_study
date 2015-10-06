@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=kcms
+useridperkey=kcms-poster.Local\=kcms;
+=======
 activeuserprofiles=JayLenovo;Team;user-PC
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=user
 useridperkey=user-PC.Local\=user;
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104

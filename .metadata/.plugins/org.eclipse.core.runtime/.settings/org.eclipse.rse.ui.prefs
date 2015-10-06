@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+org.eclipse.rse.preferences.order.connections=kcms-poster.Local
+=======
 org.eclipse.rse.preferences.order.connections=user-PC.Local
+>>>>>>> fb663d51e2b9aad10523e908aa098c8418b6b104
